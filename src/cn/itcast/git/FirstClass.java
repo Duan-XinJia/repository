@@ -11,4 +11,9 @@ public class FirstClass {
         System.out.println("傻屌!!!!!!!!!!!!!");
         System.out.println("傻屌!!!!!!!!!!!!!");
     }
+    public void test(){
+        int i=0;
+        i +=10;
+
+    }
 }
